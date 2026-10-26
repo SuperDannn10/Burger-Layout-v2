@@ -1,0 +1,9 @@
+{
+  "name": "tastyburger-v2-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "cd tastyburger-v2 && npm run dev",
+    "build": "cd tastyburger-v2 && npm run build",
+    "preview": "cd tastyburger-v2 && npm run preview"
+  }
+}
